@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/week_analysis"
+        android:icon="@drawable/ic_baseline_leaderboard_24"
+        android:title="Week Analysis" />
+    <item
+        android:id="@+id/month_analysis"
+        android:icon="@drawable/ic_baseline_pie_chart_24"
+        android:title="Month Analysis" />
+    <item
+        android:id="@+id/year_analysis"
+        android:icon="@drawable/ic_baseline_calendar_month_24"
+        android:title="Year Analysis" />
+    <item
+        android:id="@+id/fd_cal"
+        android:icon="@drawable/ic_baseline_calculate_24"
+        android:title="FD Calculator" />
+
+    <item
+        android:id="@+id/emi_cal"
+        android:icon="@drawable/ic_baseline_calculate_24"
+        android:title="EMI Calculator" />
+
+    <item
+        android:id="@+id/select_currency"
+        android:icon="@drawable/ic_baseline_currency_rupee_24"
+        android:title="Select Currency" />
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/ic_baseline_help_24"
+        android:title="Log Out" />
+
+</menu>

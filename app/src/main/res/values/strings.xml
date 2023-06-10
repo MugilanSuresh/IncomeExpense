@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smart Expense</string>
+    <string name="login_text">Enter your Email, to get started</string>
+    <string name="otp_text">You will get a OTP via Email</string>
+    <string name="salary">Salary</string>
+    <string name="log_out">Log Out</string>
+</resources>
